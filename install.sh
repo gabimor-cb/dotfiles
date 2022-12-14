@@ -6,3 +6,4 @@ source "$DIR/ding.sh"
 source "$DIR/mdcd.sh"
 source "$DIR/kill-port.sh"
 
+alias nr='npm run '
